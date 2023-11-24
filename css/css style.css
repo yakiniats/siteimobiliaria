@@ -1,0 +1,133 @@
+body{
+    text-align: center;
+    font-family: "Open Sans,sans-serif";
+    background-color: #f5f2f2;
+    color: #000000;
+    display: block;
+    position: absolute;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+}
+
+.banner {
+    width: 750px;
+    height: 250px;
+}
+
+.assinatura {
+    width: 450px;
+    height: 350px;
+}
+
+.corretores2 {
+    width: 450px;
+    height: 350px;
+}
+
+li {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: underline;
+    display: inline;
+    padding: 15px;
+}
+
+.secao {
+    background-color: rgb(174, 219, 255);
+    padding: 15px;
+}
+
+.sobre {
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+}
+
+.servicos {
+    background-color: rgb(77, 170, 246);
+    padding: 15px;
+}
+
+.corretores {
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+}
+
+.contato {
+    background-color: rgb(77, 170, 246);
+    padding: 15px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    color: rgb(77, 170, 246);
+}
+
+h3{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+h4{
+    color:#ffffff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h5{
+    color:rgb(77, 170, 246);
+    font-size: 24px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.white{
+    color: #f5f2f2;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+span {
+color:rgb(77, 170, 246);
+}
+
+.yellow {
+    color:rgb(237, 255, 44)
+    }
+
+.black {
+background-color: #000000;
+color: #ffffff;
+    }
+
+.lista-contato {
+    display:inline-block;
+    list-style: none;
+    }
+
+    .item-lista-contato {
+        margin-top: 15px;
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    .link-contato {
+        background-color: #ffffff;
+        color: #1d80c1;
+        padding: 2px 5px;
+        border-radius: 5px;
+    }
